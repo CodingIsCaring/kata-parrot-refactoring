@@ -14,3 +14,5 @@ The project uses [JUnit 4](https://junit.org/junit4/).
 To run the test:
 
     mvn test
+
+Reference: https://github.com/emilybache/Parrot-Refactoring-Kata
